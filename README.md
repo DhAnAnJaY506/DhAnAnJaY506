@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I am a detail-oriented Entry-Level Data Analyst with a Bachelor’s degree in Financial Management and strong hands-on experience in SQL, Python, Power BI, and Advanced Excel. I enjoy working with data to clean, analyze, and transform it into meaningful insights that support business decisions.
+<br>I am a detail-oriented Entry-Level Data Analyst with a Bachelor’s degree in Financial Management and strong hands-on experience in SQL, Python, Power BI, and Advanced Excel. I enjoy working with data to clean, analyze, and transform it into meaningful insights that support business decisions.
 
 Currently, I am learning Machine Learning using Scikit-learn to expand my analytical and predictive modeling skills.
 
